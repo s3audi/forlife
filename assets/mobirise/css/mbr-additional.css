@@ -3319,7 +3319,7 @@ body {
   text-align: right;
 }
 .cid-qDYc4erjdf {
-  padding-top: 90px;
+  padding-top: 75px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/06.jpg");
 }
@@ -3333,7 +3333,7 @@ body {
 }
 .cid-qDYc4erjdf .form-control {
   padding: 8px 15px 8px 15px;
-  border-color: #cccccc;
+  border-color: #a2a2a2;
   border-radius: 0px !important;
   background-color: #ffffff;
 }
@@ -3356,7 +3356,7 @@ body {
 .cid-qDYc4erjdf table {
   width: 100% !important;
   margin-top: 6px;
-  border: 1px solid #cccccc;
+  border: 1px solid #a2a2a2;
   margin-bottom: 0;
 }
 .cid-qDYc4erjdf table th {
@@ -3365,11 +3365,11 @@ body {
   border-bottom: none;
 }
 .cid-qDYc4erjdf table th:hover {
-  background: #cccccc;
-  color: #000000;
+  background: #a2a2a2;
+  color: #ffffff;
 }
 .cid-qDYc4erjdf table td {
-  border-top: 1px solid #cccccc;
+  border-top: 1px solid #a2a2a2;
 }
 .cid-qDYc4erjdf table.table {
   background: #ffffff;
