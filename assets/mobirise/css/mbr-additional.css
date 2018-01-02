@@ -1584,6 +1584,35 @@ body {
 .cid-qCVnPOPpzX a.close:hover {
   color: #ffffff;
 }
+.cid-qFxu00262U {
+  padding-top: 160px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/tuncaysoyak-akademi-1698x1131.jpg");
+}
+.cid-qFxu00262U .media-content .btn-bgr {
+  z-index: 0;
+}
+.cid-qFxu00262U .mbr-overlay {
+  background: linear-gradient(90deg, #1a032d, #0c57bf);
+}
+@media (min-width: 992px) {
+  .cid-qFxu00262U .media-content {
+    -webkit-flex-basis: auto;
+    flex-basis: auto;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qFxu00262U {
+    text-align: center !important;
+  }
+  .cid-qFxu00262U .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qFxu00262U .media-container-row {
+  justify-content: flex-start;
+  justify-content: flex-end;
+}
 .cid-qCVnIr3ecI {
   padding-top: 120px;
   padding-bottom: 90px;
@@ -1817,43 +1846,6 @@ body {
   }
 }
 .cid-qCVnV7j3pl .mbr-iconfont {
-  color: #4284df;
-  border-color: #4284df;
-}
-.cid-qCVnWVoDSW {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background2.jpg");
-}
-.cid-qCVnWVoDSW .mbr-overlay {
-  background: linear-gradient(90deg, #6441a5, #2a0845);
-}
-.cid-qCVnWVoDSW .media-container-row img {
-  -webkit-transition: transform 0.4s cubic-bezier(0.38, 3, 0.57, 1.6);
-  -moz-transition: transform 0.4s cubic-bezier(0.38, 3, 0.57, 1.6);
-  transition: transform 0.4s cubic-bezier(0.38, 3, 0.57, 1.6);
-}
-.cid-qCVnWVoDSW .media-container-row:hover img {
-  -webkit-transform: translate3d(0, -5px, 0);
-  -moz-transform: translate3d(0, -5px, 0);
-  transform: translate3d(0, -5px, 0);
-}
-@media (min-width: 992px) {
-  .cid-qCVnWVoDSW .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qCVnWVoDSW .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qCVnWVoDSW {
-    text-align: center !important;
-  }
-}
-.cid-qCVnWVoDSW .mbr-iconfont {
   color: #4284df;
   border-color: #4284df;
 }
