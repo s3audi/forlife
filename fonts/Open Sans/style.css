@@ -1,0 +1,60 @@
+@font-face {
+   font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/forlife//fonts/Open Sans/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 600;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/forlife//fonts/Open Sans/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 700;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/forlife//fonts/Open Sans/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 800;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/forlife//fonts/Open Sans/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Open Sans';
+   font-style: italic;
+   font-weight: 300;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/forlife//fonts/Open Sans/300italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Open Sans';
+   font-style: regular;
+   font-weight: 400;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/forlife//fonts/Open Sans/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Open Sans';
+   font-style: italic;
+   font-weight: 400;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/forlife//fonts/Open Sans/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Open Sans';
+   font-style: italic;
+   font-weight: 600;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/forlife//fonts/Open Sans/600italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Open Sans';
+   font-style: italic;
+   font-weight: 700;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/forlife//fonts/Open Sans/700italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Open Sans';
+   font-style: italic;
+   font-weight: 800;
+   src: url('file:///C:/Users/MASTER/Documents/GitHub/forlife//fonts/Open Sans/800italic.ttf') format('truetype');
+}
