@@ -42,7 +42,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcher": "on"
   },
